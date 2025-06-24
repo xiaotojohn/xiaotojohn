@@ -2,7 +2,7 @@
 
 - 🔭 Currently working towards a full-stack data analyst.
 - 🌱 I define full-stack data analyst as one who could build up a solution from DUST.
-- 👯 I have backgrounds from computer science and business, now pursuiting my Master in Business Analytics in Sauder business schook, UBC.
+- 👯 I have backgrounds from computer science and business.
 - 😄 Projects have to be interesting and chanllenging.
 - 🤔 I’m working my ass off to find myself, no kidding.
 
